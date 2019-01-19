@@ -1,0 +1,14 @@
+# put proxys here!
+../ > npm start
+
+# put services here!
+# 3001, rooms
+../../meng-rooms > npm start
+# 3002, gallery
+../../allen-gallery > npm start
+# 3003, reviews
+../../chris-reviews > npm start
+# 3004, booking
+../../jon-booking > npm start
+
+# remember an empty line (so this here for convenience)
